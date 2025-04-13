@@ -4,7 +4,7 @@
 
 ## 📌 Proje Hakkında
 
-**Patiköy**, sokak hayvanlarını sahiplendirme ve hayvan hakları konusunda farkındalık yaratmayı amaçlayan bir web platformudur. Bu proje, İnternet Programcılığı dersi kapsamında geliştirilmiş bir ödev çalışmasıdır.
+**Patiköy**, sokak hayvanlarını sahiplendirme ve hayvan hakları konusunda farkındalık yaratmayı amaçlayan bir web platformudur. Bu proje, Web Programlama dersi kapsamında geliştirilmiş bir ödev çalışmasıdır.
 
 ## ✨ Öne Çıkan Özellikler
 
